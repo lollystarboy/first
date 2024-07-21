@@ -17,7 +17,3 @@
 * Отправка в удаленный репозиторий (Push)
 * Обновление локального репозитория (Pull / Fetch)
 * Слияние (Merge)
-
-jksdbhfkjasbdfjbasfjdnalsf
-asdfalksdhnfolkasndf
-jgfjghfjfgjhvjkbvkjhbk
